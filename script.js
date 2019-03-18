@@ -28,9 +28,6 @@ function scores (){
             score:idx.score,
             id:idx.id
         });
-       // newScores.push(entry);
-       
-
          
         }
         console.log(newScores)
